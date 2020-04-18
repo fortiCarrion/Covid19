@@ -16,3 +16,15 @@ Do demais, foram utilizadas das API do [IBGE](https://www.ibge.gov.br/) e de Cli
 ### **STATUS** : Em processo de validação das informações
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+
+## Apresentação
+
+### Modulo de Bussines Inteligence
+
+![Print BI](https://raw.githubusercontent.com/fortiCarrion/Covid19/master/Imagens/brasil_corona_bi.jpg)
+
+### BOT Telegram
+
+Link para acesso do chatbot basta clicar [aqui](http://t.me/brasilcovid19bot), que será redirecionado.
+
+![Print BOT](https://raw.githubusercontent.com/fortiCarrion/Covid19/master/Imagens/bot_telegram.jpg =500x450)
