@@ -5,7 +5,7 @@
 * BI - Jair Carrion
 * BOT - Felipe Marinho
 
-O projeto tem por objetivo, extrair, tratar, carregar, e compartilhar de forma simples e intuitiva a tendencia com que o Covid-19 vem se explalhando pelos municipios de todo o Brasil.
+O projeto tem por objetivo, extrair, tratar, carregar, e compartilhar de forma simples e intuitiva a tendência com que o Covid-19 vem se esplalhando pelos municípios de todo o Brasil.
 
 A fonte dos dados sobre a tendencia dos casos registrados são de origem da Secretarias de Saúde estaduais disponibilizados pela Brasil.io.
 * https://github.com/turicas/covid19-br
